@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Dominique
+### Hi there 👋, my name is Dominique Burger
+#### Full Stack Web Developer
 
 
 
