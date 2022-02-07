@@ -1,4 +1,4 @@
-Hi, I'm Dominique 👋
+### Hi there 👋, my name is Dominique
 
 
 
