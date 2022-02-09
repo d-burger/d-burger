@@ -1,6 +1,7 @@
 <img src="/img/frame.png" alt="Cover with details about author">
 
-## About me
+## Hey! 👋
+I'm Dominique, full stack web developer from Germany.
 
 ## Skills
 
