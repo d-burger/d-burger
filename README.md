@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Dominique Burger
 #### Full Stack Web Developer
 
-
+<img src="/frame.png" alt="Alt text" title="Optional title">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-burger)](https://github.com/anuraghazra/github-readme-stats)
