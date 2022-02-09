@@ -1,7 +1,7 @@
 <img src="/frame.png" alt="Alt text" title="Optional title">
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=d-burger&show_icons=true&title_color=00ffc2&bg_color=282e2f">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=d-burger&show_icons=true&title_color=00ffc2&bg_color=282e2f&icon_color=00ffc2">
 </p>
 
 
