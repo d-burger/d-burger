@@ -44,7 +44,11 @@
   <a href="https://linkedin.com/in/dev-dominique-burger" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
- <p style="margin: 500px;"> or visit my website </p> 
+ <br>
+ <p> or visit my website </p> 
+    <a href="https://dev-burger.com" target="_blank">
+  <img src=https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://dev-burger.com alt=linkedin style="margin-bottom: 5px;" />
+  </a>
   </div>
 
 ## Stats
