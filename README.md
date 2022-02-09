@@ -4,7 +4,7 @@
 
 ## Skills
 
-<table width="70%"><tr><td valign="top" width="30%">
+<table align="center" width="70%"><tr><td valign="top" width="30%">
   
 
   <h3 align="center">Frontend</h3>
