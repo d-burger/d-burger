@@ -57,7 +57,11 @@
   <img align=center src="https://github-readme-stats.vercel.app/api?username=d-burger&show_icons=true&title_color=00ffc2&bg_color=282e2f&icon_color=00ffc2&text_color=FFFFFF">
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=d-burger.d-burger)
+
+
+  <img align=center src="https://visitor-badge.glitch.me/badge?page_id=d-burger.d-burger">
+
+
 
 <!--
 **d-burger/d-burger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
