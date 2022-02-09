@@ -1,7 +1,10 @@
 <img src="/img/frame.png" alt="Cover with details about author">
 
 ## Hey! 👋
-I'm Dominique, Full Stack Web Developer from Germany.
+
+<div align="center">I'm Dominique and I'm a passionate full stack web developer from Germany 👨‍💻. 
+I've recently completed a full stack web/app development boot camp that focused on HTML5, CSS3, JavaScript/React in the frontend and Node.js, Express, SQL and NoSQL in the backend. 
+</div>  
 
 ## Skills
 
