@@ -3,7 +3,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-burger)](https://github.com/anuraghazra/github-readme-stats&title_color=red)
 
-
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=d-burger&show_icons=true&theme=radical">
+</p>
 
 
 
