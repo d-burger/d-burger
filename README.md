@@ -3,7 +3,7 @@
 ## Hey! 👋
 
 <div>
-  I'm Dominique and I'm a passionate web developer from Germany 👨‍💻. <br>
+  I'm Dominique and I'm a passionate junior full stack web developer from Germany 👨‍💻. <br>
   I've recently completed a boot camp that focused on HTML5, CSS3, JavaScript/React in the frontend and Node.js, Express, SQL and NoSQL in the    backend. 
   <br>
   <br>
