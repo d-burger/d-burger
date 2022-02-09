@@ -1,6 +1,3 @@
-### Hi there 👋, my name is Dominique Burger
-#### Full Stack Web Developer
-
 <img src="/frame.png" alt="Alt text" title="Optional title">
 
 
