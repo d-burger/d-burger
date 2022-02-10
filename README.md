@@ -46,7 +46,4 @@
 
 ## Stats
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=d-burger&show_icons=true&title_color=00ffc2&bg_color=282e2f&icon_color=00ffc2&text_color=FFFFFF">
-</p>
 
