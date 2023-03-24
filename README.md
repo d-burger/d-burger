@@ -1,16 +1,7 @@
-<img src="/img/frame.png" alt="Cover with details about author">
-
 ## Hey! 👋
 
 <div>
-  I'm Dominique and I'm a passionate junior full stack web developer from Germany 👨‍💻. <br>
-  I've recently completed a boot camp that focused on HTML5, CSS3, JavaScript/React in the frontend and Node.js, Express, SQL and NoSQL in the    backend. 
-  <br>
-  <br>
-  In my previous job I've worked as an IT system administrator and collected valuable experience in the world of IT. In my free time I started coding and quickly fell in love with it. Eventually I decided to fully commit to becoming a web developer.
-  <br>
-  <br>
-  What I love about coding is the process of facing little logic problems repeatedly and trying to solve them in a creative and efficient way.   To me, coding feels like a superpower. I'm not an expert yet but I'm looking forward to the journey of becoming one.
+  I'm Dominique and I'm a passionate software developer from Germany 👨‍💻. <br>
 </div>  
 
 ## Skills
